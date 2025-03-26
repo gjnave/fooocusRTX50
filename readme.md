@@ -29,6 +29,7 @@ This repository fixes that issue by bundling:
 
 📦 [Download from My Server](https://www.tartanak.com/alibakhtiari2/fooocusrtx508090.rar)
 
+
 Just extract and double-click `run.bat`. No installation needed.
 
 ---
@@ -36,18 +37,16 @@ Just extract and double-click `run.bat`. No installation needed.
 ### 🔹 Option 2: Clone & Install Locally
 
 ```bash
-git clone https://github.com/yourusername/fooocusrtx508090.git
+git clone https://github.com/alibakhtiari2/fooocusrtx508090.git
 cd fooocusrtx508090
+
 Then run:
 install.bat
+
 This will:
-
 Install pip into embedded Python
-
 Install PyTorch Nightly (with CUDA 12.8 support)
-
 Install all dependencies from requirements_versions.txt
-
 Generate run.bat to launch Fooocus
 
 ⚠️ Note: Ignore yellow warnings like "pip not in PATH" — this uses embedded Python, and no global setup is required.
@@ -56,7 +55,6 @@ Generate run.bat to launch Fooocus
 
 🖼️ Add or Upgrade Models
 To add custom models:
-
 Download .safetensors or .ckpt models from Civitai or Hugging Face
 
 Place them inside the following directory:
