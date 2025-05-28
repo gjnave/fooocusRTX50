@@ -22,14 +22,13 @@ echo 🧠 Step 2: Installing PyTorch Nightly with CUDA 12.8...
 
 python_embed\python.exe -m pip install --upgrade pip
 
-python_embed\python.exe -m pip install --pre torch==2.8.0.dev20250324+cu128 torchvision==0.22.0.dev20250325+cu128 torchaudio==2.6.0.dev20250325+cu128 --index-url https://download.pytorch.org/whl/nightly/cu128
-
+python_embed\python.exe -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 if !errorlevel! neq 0 (
-    echo ❌ PyTorch Nightly installation failed.
+    echo ❌ PyTorch installation failed.
     pause
     exit /b 1
 ) else (
-    echo ✅ PyTorch Nightly installed.
+    echo ✅ PyTorch installed.
 )
 
 :: ------------------------------------------------------------
