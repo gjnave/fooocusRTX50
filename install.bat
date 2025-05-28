@@ -17,8 +17,8 @@ if !errorlevel! neq 0 (
 )
 
 :: ------------------------------------------------------------
-:: STEP 2 - Install PyTorch Nightly
-echo 🧠 Step 2: Installing PyTorch Nightly with CUDA 12.8...
+:: STEP 2 - Install PyTorch 
+echo 🧠 Step 2: Installing PyTorch with CUDA 12.8...
 
 python_embed\python.exe -m pip install --upgrade pip
 
