@@ -1,3 +1,6 @@
+# A Quick Installer for the 50 series can be found here: (https://www.patreon.com/posts/rtx-50-series-130105096)
+
+
 # ⚡ Fooocus RTX 50-Series Compatible (Portable Version)
 
 ## 🧠 Hassle-Free Setup for RTX 5080 / 5090 Users
