@@ -45,8 +45,8 @@ Just extract and double-click `install.bat`. No installation needed. But it will
 ### 🔹 Option 3: Clone & Install Locally
 
 ```bash
-git clone https://github.com/alibakhtiari2/fooocusrtx508090.git
-cd fooocusrtx508090
+git clone https://github.com/gjnave/fooocusRTX50
+cd fooocusRTX50
 
 Then run:
 install.bat
