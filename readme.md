@@ -24,29 +24,8 @@ This repository fixes that issue by bundling:
 - Supports additional model downloads
 - Offline and portable — perfect for air-gapped setups
 
----
 
-## 📥 Download Options
-
-### 🔹 Option 1: Download Full Pack (Recommended) default model included.
-
-📦 [Download from My Server](https://www.tartanak.com/alibakhtiari2/fooocusRTX50XX.rar)
-
-
-Just extract and double-click `run.bat`. No installation needed. Default model is included.
-----------------------------------------------------------------------------------------------
-
-### 🔹 Option 2: Download Full Pack (Recommended). model will be downloaded once running it.
-(THESE LINKS ARE BROKEN)
-
-📦 [Download from My Server](https://www.tartanak.com/alibakhtiari2/fooocusrtx508090.rar)
-
-
-Just extract and double-click `install.bat`. No installation needed. But it will just download the model.
-
-----------------------------------------------------------------------------------------------
-
-### 🔹 Option 3: Clone & Install Locally
+### 🔹 Clone & Install Locally
 
 ```bash
 git clone https://github.com/gjnave/fooocusRTX50
