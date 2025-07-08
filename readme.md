@@ -37,6 +37,7 @@ Just extract and double-click `run.bat`. No installation needed. Default model i
 ----------------------------------------------------------------------------------------------
 
 ### 🔹 Option 2: Download Full Pack (Recommended). model will be downloaded once running it.
+(THESE LINKS ARE BROKEN)
 
 📦 [Download from My Server](https://www.tartanak.com/alibakhtiari2/fooocusrtx508090.rar)
 
